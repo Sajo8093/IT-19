@@ -1,8 +1,5 @@
 a=3
 b=14
-
-n=0
-m=0
     
 def double(n):
     return 2*n
