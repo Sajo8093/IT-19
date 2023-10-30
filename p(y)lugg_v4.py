@@ -110,7 +110,7 @@ def word_test(options, words_correct, words_alternatives, difficulty):
         counter = 0
         for word in words_correct:
             print()
-            print("Tryck x för att avsluta")
+            print("Tryck x för att gå tillbaka till menyn")
             print()
             
             answer = difficulty_check(difficulty, word, words_alternatives, words_correct)
